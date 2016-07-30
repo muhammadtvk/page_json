@@ -1,0 +1,6 @@
+name = Page JSON
+description = Custom module to provide "Site API Key" on site information page.
+core = 7.x
+
+package = muhammad
+datestamp = "1469803008"
